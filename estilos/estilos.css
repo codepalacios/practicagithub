@@ -1,12 +1,11 @@
 body {
-    background-color: dimgray;
+    background-color: darkgray;
 }
 h1 {
-    background-color: aliceblue;
-}
-h4 {
-    background-color: aquamarine;
+    margin: 0%;
+    padding: 0%;
 }
 h3 {
-    background-color: chartreuse;
+    margin: 0%;
+    padding: 0%;
 }
