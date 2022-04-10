@@ -4,8 +4,13 @@ body {
 h1 {
     margin: 0%;
     padding: 0%;
+    color: gold;
 }
 h3 {
     margin: 0%;
     padding: 0%;
+    color: lawngreen;
+}
+p {
+    color: red;
 }
