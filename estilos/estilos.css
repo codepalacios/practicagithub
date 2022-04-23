@@ -1,0 +1,15 @@
+#contenedor {
+    text-align: center;
+}
+body {
+    background-color: black;
+}
+#header {
+    color: red;
+}
+#cuerpo {
+    color: white;
+}
+#footer {
+    color: aquamarine;
+}
